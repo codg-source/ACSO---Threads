@@ -1,0 +1,16 @@
+5,20,1
+1,0,1,50
+2,1,0,15
+3,3,2,10
+4,5,0,100
+5,6,3,60
+
+nProc,quantum,tTroca
+ID,Tch,Prio,Tcpu   
+nProc: número de processos
+quantum: valor da fatia de tempo do Round Robin
+tTroca: Tempo de chaveamento de contexto.
+ID:identificador do processo
+Tch: Tempo de chegada/criacão do processo
+Prio: Prioridade do processo
+Tcpu: tempo total de CPU que o processo necessita.
