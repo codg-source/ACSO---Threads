@@ -1,0 +1,38 @@
+===== ROUND ROBIN =====
+Tempo medio de retorno: 160.75
+Numero de chaveamentos: 8
+Overhead de chaveamento: 0.14
+Tempo total de simulacao: 227
+Linha do tempo:
+  [0-30] P1
+  [30-34] Escalonador
+  [34-54] P2
+  [54-58] Escalonador
+  [58-88] P3
+  [88-92] Escalonador
+  [92-122] P4
+  [122-126] Escalonador
+  [126-156] P1
+  [156-160] Escalonador
+  [160-170] P3
+  [170-174] Escalonador
+  [174-204] P4
+  [204-208] Escalonador
+  [208-213] P1
+  [213-217] Escalonador
+  [217-227] P4
+
+===== PRIORIDADE =====
+Tempo medio de retorno: 107.00
+Numero de chaveamentos: 3
+Overhead de chaveamento: 0.06
+Tempo total de simulacao: 207
+Linha do tempo:
+  [0-20] P2
+  [20-24] Escalonador
+  [24-89] P1
+  [89-93] Escalonador
+  [93-133] P3
+  [133-137] Escalonador
+  [137-207] P4
+
